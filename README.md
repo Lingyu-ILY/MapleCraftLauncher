@@ -2,6 +2,17 @@
 
 <h1 align="center">古楓啟動器 Ancientmaple Launcher</h1>
 
+## 下載
+
+你可以至 [GitHub Releases](https://github.com/Lingyu-ILY/AncientmapleLauncher/releases) 下載
+
+#### 最新發布版本
+
+[![](https://img.shields.io/github/v/release/Lingyu-ILY/AncientmapleLauncher.svg?style=flat-square)](https://github.com/Lingyu-ILY/AncientmapleLauncher/releases/latest)
+
+#### 最新預發布版本
+[![](https://img.shields.io/github/release/Lingyu-ILY/AncientmapleLauncher/all.svg?style=flat-square)](https://github.com/Lingyu-ILY/AncientmapleLauncher/releases)
+
 ---
 
 ### credits
