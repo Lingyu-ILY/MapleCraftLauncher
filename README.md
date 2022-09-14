@@ -1,6 +1,9 @@
 <p align="center"><img src="Maple.png" width="150px" height="150px" alt="AncientMaple"></p>
 
 <h1 align="center">古楓啟動器 MapleCraft Launcher</h1>
+
+[<p align="center"><img src="https://img.shields.io/github/downloads/Lingyu-ILY/MapleCraftLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/Lingyu-ILY/MapleCraftLauncher/releases)
+
 <p align="center"><img src="view.png" alt="view"></p>
 
 ## 下載
